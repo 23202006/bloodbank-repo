@@ -27,8 +27,7 @@ SECRET_KEY = '+zy!9k=9pql5gz9bkqjore)k6r!%w0atk(@(!(!zvp5e(t2i8n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['bloodlink-23202006-bavadhar-g.vercel.app', 'localhost', '127.0.0.1']
-
+ALLOWED_HOSTS = ['bloodbank-repo.vercel.app', '.vercel.app', 'localhost', '127.0.0.1']
 
 
 # Application definition
